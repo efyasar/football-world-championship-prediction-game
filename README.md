@@ -17,12 +17,12 @@ World Cup 2022 Prediction Game is a new version of the "[World Cup 2018 Predicti
 
 The end-user app enables users to pick their favorite teams to win each round all the way to the world cup winner. Players with the highest number of accurate predictions win the game.
 
-![Picture 2](RackMultipart20220926-1-maih8f_html_daecdd43f44b27dd.gif)
+![1](https://user-images.githubusercontent.com/832062/192266906-1ca7807b-bbad-4b46-b8a1-ec49c5c9b1ef.jpg)
 
 Once users make their selections, they can check out the leaderboard and can join the discussions.
 
-![](RackMultipart20220926-1-maih8f_html_21148f86f4cdb699.jpg)
+![2](https://user-images.githubusercontent.com/832062/192267123-0cbe5ba9-1a2c-4699-a622-d8bd1b9cdc91.jpg)
 
 Sharing function enables users to share their favorite team of World Cup 2022 tournament based on the user's winner selection of final round. An adaptive card is posted to a World Cup fun TEAMs channel that was selected by Admin app. Also, users can join the conversations of this selected World Cup fun team.
 
-![Picture 84](RackMultipart20220926-1-maih8f_html_61fc10d515f05dae.gif)
+![3](https://user-images.githubusercontent.com/832062/192267434-c88e3a85-cb36-47f7-98a0-cb05419da29e.png)
