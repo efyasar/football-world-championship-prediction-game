@@ -1,12 +1,12 @@
-| [Documentation](https://github.com/efyasar/world-cup-prediction-game/wiki) | [Deployment guide](https://github.com/efyasar/world-cup-prediction-game/wiki/Deployment-Guide) | [Architecture](https://github.com/efyasar/world-cup-prediction-game/wiki/Solution-Overview) |
+| [Documentation](https://github.com/efyasar/football-world-championship-prediction-game/wiki) | [Deployment guide](https://github.com/efyasar/football-world-championship-prediction-game/wiki/Deployment-Guide) | [Architecture](https://github.com/efyasar/football-world-championship-prediction-game/wiki/Solution-Overview) |
 | ---- | ---- | ---- |
 
 
 # Overview
 
-World Cup 2022 Prediction Game is a Microsoft [Power Platform](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/teams-low-code-solutions) based free, fun app that you can deploy within your organization to get your colleagues excited about the WORLD CUP 2022. The app, built using Microsoft [Power Apps](https://docs.microsoft.com/en-us/powerapps/powerapps-overview), and [Power Automate](https://docs.microsoft.com/en-us/power-automate/getting-started), deeply integrates with Teams.
+Football World Championship 2022 Prediction Game is a Microsoft [Power Platform](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/teams-low-code-solutions) based free, fun app that you can deploy within your organization to get your colleagues excited about the WORLD CUP 2022. The app, built using Microsoft [Power Apps](https://docs.microsoft.com/en-us/powerapps/powerapps-overview), and [Power Automate](https://docs.microsoft.com/en-us/power-automate/getting-started), deeply integrates with Teams.
 
-World Cup 2022 Prediction Game is a new version of the "[World Cup 2018 Prediction Game with PowerApps"](https://powerapps.microsoft.com/en-us/blog/world-cup-2018-prediction-game/) that released on June 8, 2018.
+Football World Championship 2022 Prediction Game is a new version of the "[World Cup 2018 Prediction Game with PowerApps"](https://powerapps.microsoft.com/en-us/blog/world-cup-2018-prediction-game/) that released on June 8, 2018.
 
 ## What is New?
 
