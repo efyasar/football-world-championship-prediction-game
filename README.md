@@ -16,6 +16,7 @@ Football World Championship 2022 Prediction Game is a new version of the "[WC 20
 - Sharing "My Favorite Team" with colleagues
 - Microsoft Teams posts and notifications for user engagements
 - Responsive design for mobile, tablet and desktop
+- Multilingual Support
 
 ## Quick View
 
