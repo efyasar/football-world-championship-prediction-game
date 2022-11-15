@@ -1,5 +1,5 @@
-| [Documentation](https://github.com/efyasar/football-world-championship-prediction-game/wiki) | [Deployment guide](https://github.com/efyasar/football-world-championship-prediction-game/wiki/Deployment-Guide) | [Architecture](https://github.com/efyasar/football-world-championship-prediction-game/wiki/Solution-Overview) | [Users Guide](https://github.com/efyasar/football-world-championship-prediction-game/blob/main/FWC22%20Prediction%20Game%20-%20Users%20Guide.pdf)
-| ---- | ---- | ---- | ---- |
+| [Documentation](https://github.com/efyasar/football-world-championship-prediction-game/wiki) | [Deployment guide](https://github.com/efyasar/football-world-championship-prediction-game/wiki/Deployment-Guide) | [Architecture](https://github.com/efyasar/football-world-championship-prediction-game/wiki/Solution-Overview) | [Users Guide](https://github.com/efyasar/football-world-championship-prediction-game/blob/main/FWC22%20Prediction%20Game%20-%20Users%20Guide.pdf) | [Admins Guide](https://github.com/efyasar/football-world-championship-prediction-game/blob/main/FWC22%20Prediction%20Game%20Admins%20How-To%20Guide.pdf)
+| ---- | ---- | ---- | ---- | ---- |
 
 
 # Overview
