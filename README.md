@@ -30,7 +30,7 @@ Once users make their selections, they can check out the leaderboard and can joi
 
 ![2](https://user-images.githubusercontent.com/832062/192267123-0cbe5ba9-1a2c-4699-a622-d8bd1b9cdc91.jpg)
 
-User can display their score breakdown according to matches and rounds.
+Users can display their score breakdown according to matches and rounds.
 
 ![3](https://user-images.githubusercontent.com/832062/204798724-adfdab8a-bcd7-4083-b12e-c149f1fd8d0b.png)
 
