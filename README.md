@@ -30,6 +30,11 @@ Once users make their selections, they can check out the leaderboard and can joi
 
 ![2](https://user-images.githubusercontent.com/832062/192267123-0cbe5ba9-1a2c-4699-a622-d8bd1b9cdc91.jpg)
 
+User can display their score breakdown according to matches and rounds.
+
+![3](https://user-images.githubusercontent.com/832062/204798724-adfdab8a-bcd7-4083-b12e-c149f1fd8d0b.png)
+
+
 Sharing function enables users to share their favorite team of Football World Championship 2022 tournament based on the user's winner selection of final round. An adaptive card is posted to a prediction game fun TEAMs channel that was selected by Admin app. Also, users can join the conversations of this selected prediction game fun team.
 
-![3](https://user-images.githubusercontent.com/832062/199594125-c6a0c363-9761-43ba-8fba-6a5a544b9e6e.png)
+![4](https://user-images.githubusercontent.com/832062/199594125-c6a0c363-9761-43ba-8fba-6a5a544b9e6e.png)
